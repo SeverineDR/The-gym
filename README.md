@@ -41,8 +41,3 @@ Ce projet vise à analyser, prédire et visualiser des métriques clés telles q
 - `dashboard/` : Fichiers pour la création du tableau de bord interactif.
 - `README.md` : Documentation du projet.
 
----
-
-#### Auteur
-- **Votre Nom**
-- [Votre Profil GitHub](https://github.com/severinedr)
